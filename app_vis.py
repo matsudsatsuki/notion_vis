@@ -41,7 +41,6 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# レイアウトの改善
 # 2行2列のグリッドレイアウトを作成
 grid = [[None, None], [None, None]]
 
