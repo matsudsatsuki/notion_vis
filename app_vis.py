@@ -9,6 +9,7 @@ from dotenv import load_dotenv
 from notion_client import Client
 import plotly.express as px
 
+
 # 環境変数のロード
 load_dotenv()
 NOTION_API_KEY = os.environ.get("NOTION_API_KEY")
